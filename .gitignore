@@ -142,8 +142,4 @@ cython_debug/
 __pycache__/
 internal
 Pipfile.lock
-browserengines
-data/
-user/
-env-config/
-dendron.yml
+.python-version
