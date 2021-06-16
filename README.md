@@ -2,8 +2,10 @@
 
 Materials for "Automation with pyDataverse" during the Dataverse2021 Community Conference session "". 
 
-* [Slides](https://zenodo.org/record/4944878)
-* Videos: will follow in the next 2 days
+* Slides: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4944878.svg)](https://doi.org/10.5281/zenodo.4944878)
+* Videos: 
+  * pyDataverse Demo: [Models + API](models-api.mp4)
+  * Dataverse Tests Demo: [Testing Shibboleth Login](login.mp4)
 
 ## License
 
