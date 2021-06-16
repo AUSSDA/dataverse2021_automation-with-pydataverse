@@ -143,3 +143,5 @@ __pycache__/
 internal
 Pipfile.lock
 .python-version
+core
+presentation/
