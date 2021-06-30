@@ -11,6 +11,10 @@ Materials for "Automation with pyDataverse" during the Dataverse2021 Community C
 * Dataverse Tests: Testing Shibboleth Login ([Screencast](demos/login.mp4))
 * pyDataverse: get file as Pandas dataframe ([Jupyter Notebook](demos/dataframe.ipynb))
 
+**Used Resources**
+
+* Kittel, Bernhard; Kritzinger, Sylvia; Boomgaarden, Hajo; Prainsack, Barbara; Eberl, Jakob-Moritz; Kalleitner, Fabian; Lebernegg, Noëlle S.; Partheymüller, Julia; Plescia, Carolina; Schiestl, David W.; Schlogl, Lukas, 2020, "Austrian Corona Panel Project (OA edition)", https://doi.org/10.11587/P5YJ0O, AUSSDA, V2, UNF:6:WBG5D3c7z25zyzqvlLvWkQ== [fileUNF]
+
 ## License
 
 Copyright Stefan Kasberger, 2021.
